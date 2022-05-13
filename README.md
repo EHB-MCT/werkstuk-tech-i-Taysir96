@@ -5,36 +5,38 @@ Vul dit document aan, en deponeer de bestanden die je gebruikte in de beschikbar
 
 ## Eige informatie
 
-- Voornaam Achternaam
-- Klasgroep
-- Groepsnaam
+- Mohamad Alshahrour
+- Groep D
+- D&D (Drugs and Dragons)
 
 
 ## Storyline 
 
 Vul volgende elementen in, deze zullen dezelfde zijn voor iedereen in de groep. Zet een "!" naast het deel dat jij hebt gedaan en "!!" naast het element dat je dynamisch maakte
 
-1. (status quo)
-2. (Call to adventure)
-3. (Guidance)
-4. (Crossing)
-5. (Trials)
-6. (Approach)
-7. (Crisis)
-8. (Treasure)
-9. (Result)
-10. (Return)
-11. (New life)
-12. (Resolution)
-13. (new status quo)
+1. (status quo) Er zijn draken op aarde en er bestaan pillen die u vuurbestendig maken.
+2. (Call to adventure) Bijwerking van drugs zorgt ervoor dat je in een zombie veranderdt, dit gebeurt met de vriend van het hoofdpersonage.
+3. (Guidance) Vriendelijke rus verteld dat Putin verantwoordelijk is voor de draken en drugs, de man wijst de weg naar Putin zijn hoofdkwartier.
+4. (Crossing) Het hoofdpersonage verplaats zich van het veilige deel van de wereld naar het duistere en gevaarlijke deel van Putin.
+5. !! (Trials) Zombie valt het hoofdpersonage aan maar een vriendelijke draak beschermt hem plots.
+6. ! (Approach) Hoofdpersonage gaat naar Putin zijn hoofdkwartier(bunker)
+7. (Crisis) Er kan niet overeen gekomen worden met Putin en Putin dood de draak die het hoofdpersonage had beschermt
+8. (Treasure) Poetins schat wordt onder alle mensen verdeeld als compensatie voor de oorlog.
+9. (Result) Putin wordt opgegeten door zijn eigen draak na overtuiging van onderdrukking + het geneesmiddel tegen de zombies wordt gevonden.
+10. (Return) Hoofdpersonage gaat terug naar huis en brengt het goede nieuws
+11. (New life) Oorlog met draken stopt + drugs niet meer nodig + geen zombies meer
+12. (Resolution) Familie en vrienden zijn bevrijd van de oorlog met de draken
+13. (new status quo) Putins redenen worden verduidelijkt
 
 ## Experience
 
-Leg uit hoe je de experience van de gebruiker vormgaf en waar je nog dingen zou toevoegen (licht, geluid, materiaal, etc)
-
+Met lampjes die aangeven of er gevaar in de buurt is.
+Groen licht omdat deze kleur veiligheid kan uitdrukken
+rood licht zijn omdat die kleur gevaar en angst kan uitdrukken
 ## Interaction
 
-Leg uit welke interaction je hebt toegevoegd, en hoe je deze duidelijk maakt aan de gebruiker. Voeg toe hoe je deze in de toekomst anders zou aanpakken, of waar je meer duidelijkheid zou creeeren indien nodig.
+De interactie die de gebruiker heeft om de afstandssensor dichterbij te komen
+
 
 
 
